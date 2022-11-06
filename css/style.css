@@ -1,0 +1,19 @@
+.choiseBTN {
+    line-height: 150%;
+    width: 30%;    
+}
+#game {
+    font-family:Arial, Helvetica, sans-serif;
+    border: 5px solid bisque;
+    border-radius: 10%;
+    padding:3%;
+    background-color: rgb(222, 252, 242);
+    text-align: center;
+
+}
+#playerTXT {
+    color: cadetblue;
+}
+#computerTXT {
+    color: tomato;
+}
